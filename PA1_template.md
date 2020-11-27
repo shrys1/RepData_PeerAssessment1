@@ -1,11 +1,5 @@
----
-title: "PA1_template.Rmd"
-author: "shrys"
-date: "27/11/2020"
-output: html_document
----
-
 ----
+
 # Reproducible Research Week assignment
 
 ## Load ggplot2 package from library
